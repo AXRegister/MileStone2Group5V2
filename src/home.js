@@ -1,5 +1,7 @@
 import './style.css';
 import Nav from './Nav'
+import logo from './rocketship.jpg'
+
 function Home() {
     return(
 <div>
@@ -8,7 +10,7 @@ function Home() {
         
         <header>
             <div class="innerHeader">
-                <h1><img class="logo" src="rocketship.jpg" alt="rocketshiplogo"/> Florida Tech Space Network / Home Page</h1>
+                <h1><img class="logo" src={logo} alt="rocketshiplogo"/>  Florida Tech Space Network / Home Page</h1>
                 <div class="usernav">
                     <a class="usernav" href="list.html">Log-In</a>
                     <a class="usernav" href="list.html">Sign Up</a>

@@ -5,7 +5,7 @@ const Nav = () =>{
         <div>
             <header>
             <nav>
-                <Link to="/"> Home Page
+                <Link to="/" style={{}}> Home Page
                 </Link>
                 <Link to="/List"> My To Do List
                 </Link>
