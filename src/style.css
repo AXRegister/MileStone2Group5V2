@@ -76,7 +76,11 @@ ul {
     text-decoration: none;
 }
 
-li a:hover {
+Link:hover {
+  background-color: #f1e0c5;
+  color: black
+}
+nav a:hover {
     background-color: #f1e0c5;
     color: black
 }

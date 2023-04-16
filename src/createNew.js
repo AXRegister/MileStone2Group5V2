@@ -15,9 +15,9 @@ function CreateNew() {
           </div>
           </div>
         </header>
-        <Nav></Nav>
-
+        
         <main>
+        <Nav style={{display: 'block'}}></Nav>
 
             <div class="container">
                 <form action="detail.html">

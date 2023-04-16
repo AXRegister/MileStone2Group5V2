@@ -19,7 +19,7 @@ function Home() {
         </header>
 
         <main>
-            <Nav></Nav>
+            <Nav ></Nav>
 
             <div class="container">
                 <p class="intro">
